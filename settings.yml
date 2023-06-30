@@ -1,0 +1,4 @@
+border_radius:
+  default: "var(--d-border-radius)"
+padding:
+  default: "1em 1.5em"
